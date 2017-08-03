@@ -1,0 +1,12 @@
+*.csv
+*.txt
+*.xml
+*_err.txt
+*.xlsx
+.DS_STORE
+*.pyc
+.git
+__pycache__
+*.idea
+*.pdf
+*.ipynb
