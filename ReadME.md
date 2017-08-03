@@ -1,7 +1,7 @@
 HDMA Data Challenge
 -------------------
 
-###1. Data Munging
+### 1. Data Munging
 
 Create a simple function that will be called to merge the two csv files:
 
@@ -22,7 +22,7 @@ Write the expanded HDMA data to a new csv file:
 
     write.csv(expanded_csv, file="hdma_expanded.csv")
 
-###2.Visualizations
+### 2.Visualizations
 
 Import the expanded csv file:
 
